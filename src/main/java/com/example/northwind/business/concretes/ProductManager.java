@@ -65,6 +65,5 @@ public class ProductManager implements IProductService{
 		Map<String, Boolean> response = new HashMap<>();
 		response.put("Silindi", Boolean.TRUE);
 		return response;
-		
 	}
 }
